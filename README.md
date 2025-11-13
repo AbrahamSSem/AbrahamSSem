@@ -22,7 +22,7 @@ Let’s connect if you’re into **practical, ground-level data work** that actu
 ---
 
 ## ✨ Certifications  
-- [SQL Fundamentals – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a11f5f7e3af691b58cd5348ffa44d6faa3b1961)  
+- [SQL – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a11f5f7e3af691b58cd5348ffa44d6faa3b1961)  
 - [Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)](https://www.credly.com/badges/a04e58f8-c0bb-4682-b37b-248f12df1f43/linked_in_profile)  
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/0acd6005-8fca-42a7-a6d5-03e90afb8422/linked_in_profile) 
 
