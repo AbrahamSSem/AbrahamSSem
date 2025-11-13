@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm **Abraham**
+# 👋 ¡Hola! I'm **Abraham**
 
 ## 🔍 About Me  
 I’m a **Data Analyst Lead** who loves turning messy, real-world data into clean, scalable systems that actually drive business decisions.  
