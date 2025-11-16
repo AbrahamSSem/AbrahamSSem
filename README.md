@@ -2,7 +2,7 @@
 # 👋 ¡Hola! I'm **Abraham**
 
 ## 🔍 About Me  
-I’m a **Data Analyst Lead** who loves turning messy, real-world data into clean, scalable systems that actually drive business decisions.  
+I’m a **Data Analyst** who loves turning messy, real-world data into clean, scalable systems that actually drive business decisions.  
 
 At **Tubaa Tech**, I work across multiple departments to **clean, model, and automate business data**  everything from receipts, payrolls, and service logs to budget reports. I build **data pipelines, models, and warehouses** that keep operations running smoothly.  
 
